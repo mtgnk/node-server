@@ -1,8 +1,8 @@
 {
-  "includes": ["src/**/*"],
+  "include": ["src/front/**/*"],
   //https://typescript-jp.gitbook.io/deep-dive/project/modules/external-modulesで推奨
   "module":"commonjs",
   "compilerOptions": {
-      "outDir": "./dist"
+      "outDir": "./public/js"
   },
 }

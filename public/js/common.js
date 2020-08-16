@@ -1,3 +1,3 @@
-$('#test').on('click',function(){
-  alert('test')
-})
+$('#test').on('click', function () {
+    alert('test');
+});
